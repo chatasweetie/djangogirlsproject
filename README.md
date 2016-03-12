@@ -10,23 +10,23 @@ Blog web app using Django framework. Using [Django Girl's tutorial](http://tutor
 
 **Blog Homepage**
 
-<img src="static/admin/img/homepage.jpg">
+<img src="readmeimg/homepage.jpg">
 
 **Add a Post**
 
-<img src="static/admin/img/createpost.jpg" height="400">
+<img src="readmeimg/createpost.jpg" height="400">
 
 **Edit a Post**
 
-<img src="static/admin/img/editpost.jpg" >
+<img src="readmeimg/editpost.jpg" >
 
 **Admin View**
 
-<img src="static/admin/img/adminhomepage.jpg" height="400">
+<img src="readmeimg/adminhomepage.jpg" height="400">
 
 **Admin Post Management**
 
-<img src="static/admin/img/adminpostview.jpg" >
+<img src="readmeimg/adminpostview.jpg" >
 
 
 ### How to run Rideminder locally
