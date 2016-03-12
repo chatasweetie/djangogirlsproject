@@ -58,7 +58,7 @@ Open your browser and navigate to
 http://localhost:8000/
 ```
 
-Note: The functionality requires that you have Django Key set as local environment variables:
+Note: The functionality requires that you set a secret key set as local environment variables:
 
 ```
 SECRET_KEY
