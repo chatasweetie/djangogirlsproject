@@ -29,7 +29,7 @@ Blog web app using Django framework. Using [Django Girl's tutorial](http://tutor
 <img src="readmeimg/adminpostview.jpg" >
 
 
-### How to run Rideminder locally
+### How to run locally
 
 
 Create a virtual environment 
@@ -56,6 +56,12 @@ Open your browser and navigate to
 
 ```
 http://localhost:8000/
+```
+
+Note: The messaging functionality requires that you have Django Key set as local environment variables:
+
+```
+SECRET_KEY
 ```
 
 
